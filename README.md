@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/zalando/hello-jan.svg?branch=master)](https://travis-ci.org/zalando/hello-jan)
-[![Coverage Status](https://coveralls.io/repos/zalando/hello-jan/badge.svg?branch=master)](https://coveralls.io/r/zalando/hello-jan?branch=master)
+[![Build Status](https://travis-ci.org/janloeffler/hello-jan.svg?branch=master)](https://travis-ci.org/janloeffler/hello-jan)
+[![Coverage Status](https://coveralls.io/repos/janloeffler/hello-jan/badge.svg?branch=master)](https://coveralls.io/r/janloeffler/hello-jan?branch=master)
 [![Apache 2](http://img.shields.io/badge/license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 # Hello-Jan build & deploy guidelines
