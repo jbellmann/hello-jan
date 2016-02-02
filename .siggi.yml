@@ -3,5 +3,5 @@ jdk:
   - oraclejdk8
   
 script:
-  - mvn clean test jacoco:report
+  - mvn clean test jacoco:report --batch-mode
 
